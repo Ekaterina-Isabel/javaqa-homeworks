@@ -14,7 +14,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [код автотеста](https://github.com/Ekaterina-Isabel/javaqa-homeworks/blob/master/src/Main.java)
+* [код тестируемого сервиса](https://github.com/Ekaterina-Isabel/javaqa-homeworks/blob/master/src/Main.java)
 
 В качестве тестовых данных использовались номера карт с сайтов: [Get Credit Card Numbers](https://www.getcreditcardnumbers.com/) и [Credit Card Number Generator & Validator](https://www.freeformatter.com/credit-card-number-generator-validator.html) (данные с ожидаемым результатом):
 * номера карт, состоящие из 15 цифр проходят валидацию (результат автотестирования "Result is OK")
